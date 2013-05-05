@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Hello World!
+title: ブログみたいなもの
 tagline: 
 ---
 {% include JB/setup %}
 
 ### このページの説明
-このページは、ruby + jekyll + jekyll bootstrap で作られ、GitHubによってホスティングされています。
-    
+ruby + jekyll + jekyll bootstrap で作られ、GitHubによってホスティングされています。  
+みんなタダで（Unix系OSなら）簡単です。すばらしい。  
+……使うだけじゃなくて貢献しないといけないんだけどね、ほんとは。  
+  
 ### 最近の投稿
 
 <ul class="posts">
