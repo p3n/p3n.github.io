@@ -82,7 +82,7 @@ JB :
     provider : disqus
     disqus :
       short_name : p3n-gh-pages
-	livefyre :
+    livefyre :
       site_id : 123
     intensedebate :
       account : 123abc
