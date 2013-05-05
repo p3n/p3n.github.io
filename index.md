@@ -5,10 +5,10 @@ tagline:
 ---
 {% include JB/setup %}
 
-## このページの説明
+### このページの説明
 このページは、ruby + jekyll + jekyll bootstrap で作られ、GitHubによってホスティングされています。
     
-## 最近の投稿
+### 最近の投稿
 
 <ul class="posts">
   {% for post in site.posts %}
