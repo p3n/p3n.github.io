@@ -3,7 +3,7 @@ layout: post
 title: privateとか
 date: 2013-05-05 15:56:00
 category : lessons
-tags : [intro, 初心者, jekyll, todo]
+tags : [intro, 初心者, jekyll, todo, Markdown]
 ---
 
 ひとまずドラフトで保存とかはやっぱり普通にローカルに書き溜めておくものなのかな。
@@ -24,7 +24,7 @@ Choose your Discovery levelのJust commentsを選んでおく。
 で起動してるのにオートで変更が適用されてなくて毎回上げ直してる。
 今はいいけど大量になってきたら重そうだ。記事の変更をぱっぱと読み込んでくれないのかな。
 
-### Markdorn記法
+### Markdown記法
 やっても適用されないと思ったら、ローカルに入ってなかった。  
 
     $ gem install redcarpet
@@ -39,3 +39,10 @@ Choose your Discovery levelのJust commentsを選んでおく。
 しかしスペース4つ開けてるのに複数行のコード記法が適用されてない。  
 →前後に改行が必要なだけだった。やれやれだ。  
 [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax#precode)
+
+### GitHubまわり
+これも普通にリポジトリなのでIssuesも使えるはず。  
+TODOを中身に書くと鬱陶しいし、別管理はどっか行ってしまう。楽そうだ。コミットログとIssuesのつなぎも簡単。
+Wikiは使わない気がするけどわからない。
+GitHubの練習によさそう。写経をpushしちゃうと著作権法に引っかかるからGitだけの練習にしかならん。  
+Octopressでも作ってみたい。
