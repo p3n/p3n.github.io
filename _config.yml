@@ -13,7 +13,7 @@ title : p3n GitHub pages
 tagline: Site Tagline
 author :
   github : p3n
-  twitter : @prawn_t
+  twitter : prawn_t
   tumblr : prawn
 
 # The production_url is only used when full-domain names are needed
@@ -82,7 +82,7 @@ JB :
     provider : disqus
     disqus :
       short_name : p3n-gh-pages
-    livefyre :
+	livefyre :
       site_id : 123
     intensedebate :
       account : 123abc
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-40660392-1'
     getclicky :
       site_id : 
     mixpanel :
