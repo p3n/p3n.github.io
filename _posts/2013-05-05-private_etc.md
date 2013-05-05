@@ -27,6 +27,7 @@ rvmのあたり？
 
 ### Markdorn記法
 やっても適用されないと思ったら、ローカルに入ってなかった。  
+
     $ gem install redcarpet
     Fetching: redcarpet-2.2.2.gem (100%)
     Building native extensions.  This could take a while...
@@ -35,5 +36,6 @@ rvmのあたり？
     unable to convert "\xCF" from ASCII-8BIT to UTF-8 for lib/redcarpet.bundle, skipping
     Installing ri documentation for redcarpet-2.2.2
     1 gem installed
-しかしスペース4つ開けてるのに複数行のコード記法が適用されてない。
-redcarpetだとなんか違うのか。
+
+しかしスペース4つ開けてるのに複数行のコード記法が適用されてない。  
+→前後に改行が必要なだけだった。やれやれだ。
