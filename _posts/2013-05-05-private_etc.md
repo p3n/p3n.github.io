@@ -1,6 +1,6 @@
 ---
 layout: post
-title: privateとか
+title: 導入 - privateとか
 date: 2013-05-05 15:56:00
 category : lessons
 tags : [intro, 初心者, jekyll, todo, Markdown]
