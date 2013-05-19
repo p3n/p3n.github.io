@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ブログみたいなもの
+title: 403 everywhere
 tagline: 
 ---
 {% include JB/setup %}

@@ -6,7 +6,7 @@ category : lessons
 tags : [jekyll, trouble]
 ---
 
-Octopressで`rake preview`がちゃんと動かなくなる現象が、こちらにもあったようだ。  
+Octopressで`rake preview`がちゃんと動かなくなる現象が、素のjekyllにもあったようだ。  
 話の経路としては逆なんだけどともかく、directory_watcherは1.5.1になるとうまく作動しない。
 
 	$ gem list

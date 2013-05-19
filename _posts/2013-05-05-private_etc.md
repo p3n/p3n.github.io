@@ -22,7 +22,8 @@ Choose your Discovery levelのJust commentsを選んでおく。
 あと、
     `jekyll --server --auto`
 で起動してるのにオートで変更が適用されてなくて毎回上げ直してる。
-今はいいけど大量になってきたら重そうだ。記事の変更をぱっぱと読み込んでくれないのかな。
+今はいいけど大量になってきたら重そうだ。記事の変更をぱっぱと読み込んでくれないのかな。  
+　→可能だった。単にdirectory_watcherが1.5.1で[うまく動作してくれない](http://stackoverflow.com/questions/15591000/jekylls-auto-doesnt-work)だけ。
 
 ### Markdown記法
 やっても適用されないと思ったら、ローカルに入ってなかった。  
