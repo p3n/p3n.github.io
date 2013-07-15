@@ -2,7 +2,7 @@
 layout: post
 title: "UIAlertViewやUIActionSheetを識別する"
 description: ""
-category: Objective-C iOS
+categories: [Objective-C, iOS]
 tags: [tips, delegate]
 ---
 {% include JB/setup %}
